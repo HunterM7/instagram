@@ -179,6 +179,7 @@ body {
 	align-items: center;
 
 	padding: 8px 20px;
+	margin-bottom: 8px;
 
 	position: relative;
 }
@@ -274,3 +275,20 @@ body {
 /* ================== */
 
 
+/* === Info box === */
+
+.info-box {
+	padding: 0 16px;
+}
+
+.info-box__likes {
+	font-weight: 600;
+}
+
+.info-box__desc {
+}
+
+.info-box__view-comments {
+}
+
+/* ================== */
