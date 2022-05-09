@@ -283,9 +283,22 @@ body {
 
 .info-box__likes {
 	font-weight: 600;
+
+	margin-bottom: 8px;
 }
 
 .info-box__desc {
+}
+
+.info-box__name {
+	font-weight: 600;
+}
+
+.info-box__more {
+	font-size: 14px;
+	color: rgba(0, 0, 0, 0.5);
+
+	background-color: transparent;
 }
 
 .info-box__view-comments {
