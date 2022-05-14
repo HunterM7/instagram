@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-	max-width: 360px;
+	width: 360px;
 	margin: 0 auto;
 
 	background: #fff;
@@ -288,6 +288,7 @@ body {
 }
 
 .info-box__desc {
+	margin-bottom: 8px;
 }
 
 .info-box__name {
@@ -302,6 +303,9 @@ body {
 }
 
 .info-box__view-comments {
+	font-weight: 500;
+
+	color: rgba(0, 0, 0, 0.5);
 }
 
 /* ================== */
